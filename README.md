@@ -1,2 +1,1 @@
-# datascience
-Data Science Projects
+Welcome to my Data Science Projects repository! This repository contains a collection of data science projects that I have worked on. Each project is designed to showcase different aspects of data science, including data analysis, machine learning, and data visualization.
